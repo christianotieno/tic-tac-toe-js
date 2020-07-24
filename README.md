@@ -4,7 +4,7 @@
 
 ![screenshot](./src/img/screenshot.png)
 
-In this project, we are building a Tic Tac Toe game (Again) but this time it’s being rendered in the browser. No backend. This project is geared towards employing the Factory Functions and The Module Pattern logic. The main goal was to put into practice these concepts along with the main concepts of Object-Oriented Programming. Particularly, classes/objects and how to access their methods and attributes.
+This project aimed to employ and understand how to use the Factory Functions and The Module Pattern logic. The main goal was to put into practice these concepts with the main objectives of Object-Oriented Programming. Particularly, classes/objects and how to access their methods and attributes.
 
 ## Built With
 
@@ -66,8 +66,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration.
+Microverse
 
 ## 📝 License
 
